@@ -1,3 +1,3 @@
-# CFA-Robo
+# ML-Cheatsheet
 
-Working Group of CFA Korea Society
+Cheats
